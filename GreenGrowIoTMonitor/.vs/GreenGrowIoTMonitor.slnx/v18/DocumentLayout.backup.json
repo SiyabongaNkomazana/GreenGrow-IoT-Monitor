@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Siyabonga\\Documents\\IIE MSA\\YEAR 3\\Semester 2\\Programming 7312\\Class Activities\\GreenGrowIoTMonitor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{77AEE2BC-2647-43DB-A849-4E5B53B34F9B}|GreenGrowIoTMonitor\\GreenGrowIoTMonitor.csproj|c:\\users\\siyabonga\\documents\\iie msa\\year 3\\semester 2\\programming 7312\\class activities\\greengrowiotmonitor\\greengrowiotmonitor\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77AEE2BC-2647-43DB-A849-4E5B53B34F9B}|GreenGrowIoTMonitor\\GreenGrowIoTMonitor.csproj|solutionrelative:greengrowiotmonitor\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77AEE2BC-2647-43DB-A849-4E5B53B34F9B}|GreenGrowIoTMonitor\\GreenGrowIoTMonitor.csproj|c:\\users\\siyabonga\\documents\\iie msa\\year 3\\semester 2\\programming 7312\\class activities\\greengrowiotmonitor\\greengrowiotmonitor\\services\\weatherapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77AEE2BC-2647-43DB-A849-4E5B53B34F9B}|GreenGrowIoTMonitor\\GreenGrowIoTMonitor.csproj|solutionrelative:greengrowiotmonitor\\services\\weatherapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77AEE2BC-2647-43DB-A849-4E5B53B34F9B}|GreenGrowIoTMonitor\\GreenGrowIoTMonitor.csproj|c:\\users\\siyabonga\\documents\\iie msa\\year 3\\semester 2\\programming 7312\\class activities\\greengrowiotmonitor\\greengrowiotmonitor\\models\\sensorreading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77AEE2BC-2647-43DB-A849-4E5B53B34F9B}|GreenGrowIoTMonitor\\GreenGrowIoTMonitor.csproj|solutionrelative:greengrowiotmonitor\\models\\sensorreading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77AEE2BC-2647-43DB-A849-4E5B53B34F9B}|GreenGrowIoTMonitor\\GreenGrowIoTMonitor.csproj|c:\\users\\siyabonga\\documents\\iie msa\\year 3\\semester 2\\programming 7312\\class activities\\greengrowiotmonitor\\greengrowiotmonitor\\models\\weatherresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77AEE2BC-2647-43DB-A849-4E5B53B34F9B}|GreenGrowIoTMonitor\\GreenGrowIoTMonitor.csproj|solutionrelative:greengrowiotmonitor\\models\\weatherresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77AEE2BC-2647-43DB-A849-4E5B53B34F9B}|GreenGrowIoTMonitor\\GreenGrowIoTMonitor.csproj|c:\\users\\siyabonga\\documents\\iie msa\\year 3\\semester 2\\programming 7312\\class activities\\greengrowiotmonitor\\greengrowiotmonitor\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{77AEE2BC-2647-43DB-A849-4E5B53B34F9B}|GreenGrowIoTMonitor\\GreenGrowIoTMonitor.csproj|solutionrelative:greengrowiotmonitor\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WeatherApiService.cs",
+              "DocumentMoniker": "C:\\Users\\Siyabonga\\Documents\\IIE MSA\\YEAR 3\\Semester 2\\Programming 7312\\Class Activities\\GreenGrowIoTMonitor\\GreenGrowIoTMonitor\\Services\\WeatherApiService.cs",
+              "RelativeDocumentMoniker": "GreenGrowIoTMonitor\\Services\\WeatherApiService.cs",
+              "ToolTip": "C:\\Users\\Siyabonga\\Documents\\IIE MSA\\YEAR 3\\Semester 2\\Programming 7312\\Class Activities\\GreenGrowIoTMonitor\\GreenGrowIoTMonitor\\Services\\WeatherApiService.cs",
+              "RelativeToolTip": "GreenGrowIoTMonitor\\Services\\WeatherApiService.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAwwCwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-17T14:49:52.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WeatherResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Siyabonga\\Documents\\IIE MSA\\YEAR 3\\Semester 2\\Programming 7312\\Class Activities\\GreenGrowIoTMonitor\\GreenGrowIoTMonitor\\Models\\WeatherResponse.cs",
+              "RelativeDocumentMoniker": "GreenGrowIoTMonitor\\Models\\WeatherResponse.cs",
+              "ToolTip": "C:\\Users\\Siyabonga\\Documents\\IIE MSA\\YEAR 3\\Semester 2\\Programming 7312\\Class Activities\\GreenGrowIoTMonitor\\GreenGrowIoTMonitor\\Models\\WeatherResponse.cs",
+              "RelativeToolTip": "GreenGrowIoTMonitor\\Models\\WeatherResponse.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-17T14:39:37.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SensorReading.cs",
+              "DocumentMoniker": "C:\\Users\\Siyabonga\\Documents\\IIE MSA\\YEAR 3\\Semester 2\\Programming 7312\\Class Activities\\GreenGrowIoTMonitor\\GreenGrowIoTMonitor\\Models\\SensorReading.cs",
+              "RelativeDocumentMoniker": "GreenGrowIoTMonitor\\Models\\SensorReading.cs",
+              "ToolTip": "C:\\Users\\Siyabonga\\Documents\\IIE MSA\\YEAR 3\\Semester 2\\Programming 7312\\Class Activities\\GreenGrowIoTMonitor\\GreenGrowIoTMonitor\\Models\\SensorReading.cs",
+              "RelativeToolTip": "GreenGrowIoTMonitor\\Models\\SensorReading.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-17T14:38:10.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Siyabonga\\Documents\\IIE MSA\\YEAR 3\\Semester 2\\Programming 7312\\Class Activities\\GreenGrowIoTMonitor\\GreenGrowIoTMonitor\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "GreenGrowIoTMonitor\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Siyabonga\\Documents\\IIE MSA\\YEAR 3\\Semester 2\\Programming 7312\\Class Activities\\GreenGrowIoTMonitor\\GreenGrowIoTMonitor\\MainWindow.xaml",
+              "RelativeToolTip": "GreenGrowIoTMonitor\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-09-17T14:28:29.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Siyabonga\\Documents\\IIE MSA\\YEAR 3\\Semester 2\\Programming 7312\\Class Activities\\GreenGrowIoTMonitor\\GreenGrowIoTMonitor\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "GreenGrowIoTMonitor\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Siyabonga\\Documents\\IIE MSA\\YEAR 3\\Semester 2\\Programming 7312\\Class Activities\\GreenGrowIoTMonitor\\GreenGrowIoTMonitor\\MainWindow.xaml.cs",
+              "RelativeToolTip": "GreenGrowIoTMonitor\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAIEAAAAAAAAAAADwv5IAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-17T14:28:27.696Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
